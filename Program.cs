@@ -1,5 +1,5 @@
 ﻿// Итоговая контрольная работа по основному блоку
-string[] array1 = new string[6] { "257", "45", "hello", "world", "res", "456" };
+string[] array1 = new string[8] { "12ii3", "45", "ygtfdgh", "ytr", "tre455", "on", "uyt", "767" };
 
 
 int SaizArray(string[] array1)
