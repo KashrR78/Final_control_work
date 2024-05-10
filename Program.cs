@@ -37,3 +37,6 @@ void FilledArray(string[] array1, string[] array2)
         }
     }
 }
+PrintArray(array1);
+FilledArray(array1, array2);
+PrintArray(array2);
