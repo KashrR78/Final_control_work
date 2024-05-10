@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Итоговая контрольная работа по основному блоку
+string[] array1 = new string[6] { "257", "45", "hello", "world", "res", "456" };

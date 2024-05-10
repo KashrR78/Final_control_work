@@ -1,0 +1,14 @@
+D:\TRAINING_IT\Final_control_work\bin\Debug\net8.0\Final_control_work.exe
+D:\TRAINING_IT\Final_control_work\bin\Debug\net8.0\Final_control_work.deps.json
+D:\TRAINING_IT\Final_control_work\bin\Debug\net8.0\Final_control_work.runtimeconfig.json
+D:\TRAINING_IT\Final_control_work\bin\Debug\net8.0\Final_control_work.dll
+D:\TRAINING_IT\Final_control_work\bin\Debug\net8.0\Final_control_work.pdb
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.AssemblyInfoInputs.cache
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.AssemblyInfo.cs
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.csproj.CoreCompileInputs.cache
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.dll
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\refint\Final_control_work.dll
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.pdb
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\Final_control_work.genruntimeconfig.cache
+D:\TRAINING_IT\Final_control_work\obj\Debug\net8.0\ref\Final_control_work.dll
